@@ -1,0 +1,12 @@
+NAME="NAVEED" 
+AGE=18
+HEIGHT=5.9
+IS_STUDENT="YES"
+print(NAME)
+print(AGE)
+print(HEIGHT)
+print(IS_STUDENT)
+print(type(NAME))
+print(type(AGE))
+print(type(HEIGHT))
+print(type(IS_STUDENT))
